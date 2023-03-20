@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hiid0726)
 ![Java](https://badgen.net/badge/icon/java?icon=java&label)
+![Python](https://badgen.net/badge/icon/python?icon=python&label)

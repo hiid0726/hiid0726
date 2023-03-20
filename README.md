@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiid0726&show_icons=true&theme=radical)
 
-
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/qus0in/streamlit_example/tree/main/01_linear_regression)
